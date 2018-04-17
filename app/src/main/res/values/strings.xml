@@ -69,6 +69,7 @@
     <string name="listar">Listar</string>
     <string name="ReporteUno">Reporte 1</string>
     <string name="reporteCuatro">Reporte 4</string>
+    <string name="numero">No.</string>
     <string-array name="opciones">
         <item>@string/registrar</item>
         <item>@string/listar</item>
