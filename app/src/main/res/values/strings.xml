@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">TallerDos</string>
+    <string name="registrar_titulo">Registrar Smartphone</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Ingrese Modelo</string>
+    <string name="color">Color de Unidad</string>
+    <string name="procesador">Procesador</string>
+    <string name="ram">Cantidad de RAM</string>
+    <string name="rom">Memoria Interna</string>
+    <string name="precio">Precio por unidad</string>
+    <string name="so">Sistema Operativo</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="registrar">Registrar</string>
+    <string name="modelo2">Modelo</string>
+    <string name="ram2">RAM</string>
+    <string name="rom2">ROM</string>
+    <string name="color2">Color</string>
+    <string name="so2">SO</string>
+    <string name="precio2">Precio</string>
+    <string name="error_modelo">Ingrese Modelo</string>
+    <string name="error_procesador">Ingrese Procesador</string>
+    <string name="error_precio">Ingrese precio válido</string>
+    <string name="guardar2">Guardado Exitosamente</string>
+    <string name="nokia">Nokia</string>
+    <string name="samsung">Samsung</string>
+    <string name="huawei">Huawei</string>
+    <string name="apple">Apple</string>
+    <string name="dos">2GB</string>
+    <string name="cuatro">4GB</string>
+    <string name="uno">1GB</string>
+    <string name="dieziseis">16GB</string>
+    <string name="treintaidos">32GB</string>
+    <string name="sesentaycuatro">64GB</string>
+    <string name="negro">Negro</string>
+    <string name="azul">Azul</string>
+    <string name="blanco">Blanco</string>
+    <string name="gris">Gris</string>
+    <string name="plata">Plata</string>
+    <string name="oro">Oro</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string-array name="marcas">
+        <item>@string/samsung</item>
+        <item>@string/huawei</item>
+        <item>@string/nokia</item>
+        <item>@string/apple</item>
+    </string-array>
+    <string-array name="rams">
+        <item>@string/uno</item>
+        <item>@string/dos</item>
+        <item>@string/cuatro</item>
+    </string-array>
+    <string-array name="roms">
+        <item>@string/dieziseis</item>
+        <item>@string/treintaidos</item>
+        <item>@string/sesentaycuatro</item>
+    </string-array>
+    <string-array name="colores">
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+        <item>@string/gris</item>
+        <item>@string/plata</item>
+        <item>@string/oro</item>
+    </string-array>
+    <string-array name="sos">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+    </string-array>
+    <string name="listar">Listar</string>
+    <string name="ReporteUno">Reporte 1</string>
+    <string name="reporteCuatro">Reporte 4</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+        <item>@string/ReporteUno</item>
+        <item>@string/reporteCuatro</item>
+    </string-array>
+</resources>
