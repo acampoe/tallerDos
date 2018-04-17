@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecondQuiz</string>
+    <string name="registrar_titulo">Register</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Insert Model</string>
+    <string name="color">Color</string>
+    <string name="procesador">Processor</string>
+    <string name="ram">Quantity</string>
+    <string name="rom">ROM</string>
+    <string name="precio">Unit Price</string>
+    <string name="so">Operating System</string>
+    <string name="limpiar">Clear</string>
+    <string name="registrar">Register</string>
+    <string name="modelo2">Model</string>
+    <string name="ram2">RAM</string>
+    <string name="rom2">ROM</string>
+    <string name="color2">Color</string>
+    <string name="so2">OS</string>
+    <string name="precio2">Price</string>
+    <string name="error_modelo">Please check model</string>
+    <string name="error_procesador">Please chech Processor</string>
+    <string name="error_precio">Please check Price</string>
+    <string name="guardar2">Saved Successfully</string>
+    <string name="nokia">Nokia</string>
+    <string name="samsung">Samsung</string>
+    <string name="huawei">Huawei</string>
+    <string name="apple">Apple</string>
+    <string name="dos">2GB</string>
+    <string name="cuatro">4GB</string>
+    <string name="uno">1GB</string>
+    <string name="dieziseis">16GB</string>
+    <string name="treintaidos">32GB</string>
+    <string name="sesentaycuatro">64GB</string>
+    <string name="negro">Black</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="gris">Gray</string>
+    <string name="plata">Silver</string>
+    <string name="oro">Gold</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="listar">List Items</string>
+    <string name="ReporteUno">Report 1</string>
+    <string name="reporteCuatro">Report 4</string>
+    <string name="numero">No.</string>
+</resources>
